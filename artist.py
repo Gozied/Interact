@@ -101,10 +101,5 @@ if __name__ == '__main__':
     else:
         print("Command not found")
         
-#pip freeze > sample.txt
 
-#clone repo
-# cd to file location
-# run pip install -r requirements.txt 
-# python3 -m nhs artist_name beyonce --average  || python3 -m nhs artist_name beyonce --average or
 
